@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stegano_Lab", "Stegano_Lab\Stegano_Lab.csproj", "{63977EC1-5D7D-4B3C-B11C-E0516A7E46BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLib", "myLib\myLib.csproj", "{F98CB39D-B2F7-421E-B9BF-CC6ED5906417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaltAndPepper_Noise", "SaltAndPepper_Noise\SaltAndPepper_Noise.csproj", "{512E20A2-80C4-491F-B093-DB12BEA663CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myWinamp", "myWinamp\myWinamp.csproj", "{D03854A4-8F31-4F41-8FCA-3CE77C2B97D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Histogram", "Histogram\Histogram.csproj", "{45481CD4-B49B-4321-8A38-91C231672E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image_Area", "Image_Area\Image_Area.csproj", "{FD0B6EC8-0954-45D0-91DF-5F86679D1489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63977EC1-5D7D-4B3C-B11C-E0516A7E46BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63977EC1-5D7D-4B3C-B11C-E0516A7E46BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63977EC1-5D7D-4B3C-B11C-E0516A7E46BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63977EC1-5D7D-4B3C-B11C-E0516A7E46BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98CB39D-B2F7-421E-B9BF-CC6ED5906417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98CB39D-B2F7-421E-B9BF-CC6ED5906417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98CB39D-B2F7-421E-B9BF-CC6ED5906417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98CB39D-B2F7-421E-B9BF-CC6ED5906417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512E20A2-80C4-491F-B093-DB12BEA663CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512E20A2-80C4-491F-B093-DB12BEA663CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512E20A2-80C4-491F-B093-DB12BEA663CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512E20A2-80C4-491F-B093-DB12BEA663CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03854A4-8F31-4F41-8FCA-3CE77C2B97D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03854A4-8F31-4F41-8FCA-3CE77C2B97D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03854A4-8F31-4F41-8FCA-3CE77C2B97D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03854A4-8F31-4F41-8FCA-3CE77C2B97D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45481CD4-B49B-4321-8A38-91C231672E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45481CD4-B49B-4321-8A38-91C231672E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45481CD4-B49B-4321-8A38-91C231672E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45481CD4-B49B-4321-8A38-91C231672E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0B6EC8-0954-45D0-91DF-5F86679D1489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0B6EC8-0954-45D0-91DF-5F86679D1489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0B6EC8-0954-45D0-91DF-5F86679D1489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0B6EC8-0954-45D0-91DF-5F86679D1489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
